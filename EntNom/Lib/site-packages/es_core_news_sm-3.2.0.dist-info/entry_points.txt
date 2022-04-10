@@ -1,3 +1,0 @@
-[spacy_models]
-es_core_news_sm = es_core_news_sm
-
